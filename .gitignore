@@ -214,3 +214,6 @@ __marimo__/
 
 # Ensure FCC is ignored
 FCC-Algebra/
+
+a.ipynb
+questions.ipynb
