@@ -213,8 +213,8 @@ __marimo__/
 !README.md
 
 # Ensure FCC is ignored
-Home/FCC/
+/FCC
 
 .cursorrules
 
-computation_foundation/exploratory/linalg_exp/linear_alg_source
+linear_algebra/source
