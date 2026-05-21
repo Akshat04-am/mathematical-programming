@@ -16,10 +16,8 @@ def matrix_transform_2d(vector, matrix):
         raise ValueError("Matrix must have shape (2,2)")
 
 
-
     # start fresh figure
     plt.figure()
-
 
 
     # matrix transformation

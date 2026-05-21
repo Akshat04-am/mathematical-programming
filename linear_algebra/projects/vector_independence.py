@@ -4,6 +4,7 @@ def vector_independence(*vectors):
     """
     Returns True if vectors (columns) are linearly independent.
     Uses matrix rank to bypass floating-point determinant issues.
+    Also returns matrix output
     """
 
     # Check all are numpy arrays
@@ -28,7 +29,7 @@ def vector_independence(*vectors):
     else:
         print("Dependent")
     
-    return is_independent
+    return matrix
 
 
 
