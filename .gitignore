@@ -212,8 +212,6 @@ __marimo__/
 # Except the main README
 !README.md
 
-# Ensure FCC is ignored
-/FCC
 
 .cursorrules
 
